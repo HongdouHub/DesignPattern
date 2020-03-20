@@ -1,0 +1,6 @@
+[{"userName":"张三","authorityEntity":"人员列表","authorityType":"查看"},
+{"userName":"李四","authorityEntity":"人员列表","authorityType":"查看"},
+{"userName":"王五","authorityEntity":"人员列表","authorityType":"查看"},
+{"userName":"赵六","authorityEntity":"人员列表","authorityType":"查看"},
+{"userName":"李四","authorityEntity":"薪资数据","authorityType":"查看"},
+{"userName":"李四","authorityEntity":"薪资数据","authorityType":"修改"}]
